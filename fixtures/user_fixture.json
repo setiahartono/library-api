@@ -1,0 +1,56 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$ZFLjbsWUqPKiUQbt3ZstZc$y4H77Q9RJ+EoFIE4ZPYlUxlXzeYMYgU+wgLdEZpD1tc=",
+    "last_login": "2023-08-18T01:37:42Z",
+    "is_superuser": true,
+    "username": "librarian",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-08-18T01:32:34Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$7p0oikOyVoGqYFx0t1QOpx$fFpaoCka3YUrZOcNm0E6x5wFP3xXMHxzpdO0cqEAgzg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "student01",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-08-18T01:41:27.151Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$6TY9aPr4CIJmIUpCIl6TuD$tr52TG6917UP2kfupIz4rShi57JpT0KaW5+5NOlJOiw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "student02",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-08-18T01:41:47.147Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
